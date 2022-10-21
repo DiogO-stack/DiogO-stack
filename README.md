@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Diogo
 
-<img width="100%" src="![Header](./your-header-image-name.png)"alt="">
+<img src="![Header](./your-header-image-name.png)"alt="img">
 
 ## 💫 Liitle Bit More About Me
 
